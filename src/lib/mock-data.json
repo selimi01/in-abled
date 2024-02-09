@@ -1,0 +1,455 @@
+{
+	"footages": [
+		{
+			"title": "Junior Robot Race: Speedy Bots on Track",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Tiny Techies: Amazing Maze Solvers",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Mini-Mechanics: Creative Constructors at Work",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Future Engineers: The Bridge Building Challenge",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Smart Bots: Clever Coding Solutions",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Eco Robots: Saving the Planet One Bot at a Time",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Space Explorers: The Mars Rover Simulation",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Robot Friends: Showcasing the Best in Bot Companionship",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Young Inventors: Innovative Robots That Wow",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Tech Whiz Kids: The Gadget Showcase",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "Junior Geniuses: Battle of the Bots",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		},
+		{
+			"title": "RoboPets: The Animal Rescue Mission",
+			"videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+		}
+	],
+	"schedules": [
+		{
+			"name": "Schedule 1: Robot Assembly Schedule",
+			"endDate": "06/06/2024",
+			"tasks": [
+				{ "name": "Prepare project display board", "duration": "4 days", "order": 0 },
+				{ "name": "Design team uniforms", "duration": "1 day", "order": 1 }
+			]
+		},
+		{
+			"name": "Schedule 2: Code Completion Countdown",
+			"endDate": "06/01/2024",
+			"tasks": [{ "name": "Practice robot operation", "duration": "1 day", "order": 0 }]
+		},
+		{
+			"name": "Schedule 3: Code Completion Countdown",
+			"endDate": "06/09/2024",
+			"tasks": [{ "name": "Finalize robot design", "duration": "1 day", "order": 0 }]
+		},
+		{
+			"name": "Schedule 4: Display Board Development",
+			"endDate": "06/11/2024",
+			"tasks": [
+				{ "name": "Practice robot operation", "duration": "8 days", "order": 0 },
+				{ "name": "Assemble robot presentation", "duration": "9 days", "order": 1 },
+				{ "name": "Finalize robot design", "duration": "6 days", "order": 2 },
+				{ "name": "Review competition rules", "duration": "1 day", "order": 3 }
+			]
+		},
+		{
+			"name": "Schedule 5: Presentation Preparation Plan",
+			"endDate": "05/16/2024",
+			"tasks": [
+				{ "name": "Review competition rules", "duration": "1 day", "order": 0 },
+				{ "name": "Practice robot operation", "duration": "1 day", "order": 1 },
+				{ "name": "Conduct a mock competition", "duration": "1 day", "order": 2 },
+				{ "name": "Conduct a mock competition", "duration": "1 day", "order": 3 }
+			]
+		},
+		{
+			"name": "Schedule 6: Code Completion Countdown",
+			"endDate": "06/23/2024",
+			"tasks": [{ "name": "Finish testing code", "duration": "4 days", "order": 0 }]
+		},
+		{
+			"name": "Schedule 7: Code Completion Countdown",
+			"endDate": "05/24/2024",
+			"tasks": [
+				{ "name": "Review competition rules", "duration": "1 day", "order": 0 },
+				{ "name": "Conduct a mock competition", "duration": "1 day", "order": 1 }
+			]
+		},
+		{
+			"name": "Schedule 8: Robot Assembly Schedule",
+			"endDate": "05/07/2024",
+			"tasks": [
+				{ "name": "Assemble robot presentation", "duration": "2 days", "order": 0 },
+				{ "name": "Conduct a mock competition", "duration": "2 days", "order": 1 },
+				{ "name": "Design team uniforms", "duration": "1 day", "order": 2 }
+			]
+		}
+	],
+	"mentors": [
+		{
+			"name": "Jordan (Mentor)",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Dedicated to inspiring the next generation of innovators, Jordan provides expert guidance in robot design and programming."
+		},
+		{
+			"name": "Robotics Enthusiasts Group",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "This group brings enthusiasts together to share their love for robotics, offering collaborative projects and competitions."
+		},
+		{
+			"name": "Sophia (Youth Mentor)",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Sophia is a tech-savvy mentor who introduces youth to the wonders of AI and machine learning in robotics."
+		},
+		{
+			"name": "Droid Developers Hub",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "A community hub where developers of all levels work on creating robots that can solve real-world problems."
+		},
+		{
+			"name": "Ethan (Mentor)",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Ethan's mentoring focuses on the mechanical aspects of robotics, ensuring students understand the fundamentals of engineering."
+		},
+		{
+			"name": "AI Pioneers Collective",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "A collective of AI experts who mentor students in applying artificial intelligence to robotic systems."
+		},
+		{
+			"name": "Olivia's Robotics Workshop",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Olivia leads a hands-on workshop where students can build and test their own robots in a supportive environment."
+		},
+		{
+			"name": "Cybernetic Minds Club",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "A club where young minds meet to discuss and implement cybernetic technologies in innovative ways."
+		},
+		{
+			"name": "Ava (Youth Mentor)",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Ava encourages young learners to think critically and creatively as they take on various robotic challenges."
+		},
+		{
+			"name": "Tech Innovators Team",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "A team that fosters technological innovation and supports students in turning their robotic dreams into reality."
+		},
+		{
+			"name": "Mason (Mentor)",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Mason's approach to mentorship emphasizes the practical application of robotics in everyday life."
+		},
+		{
+			"name": "The Circuit Breakers",
+			"avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+			"about": "Specializing in robotics competitions, this group mentors students to excel in both teamwork and technical skills."
+		}
+	],
+	"timers": [
+		{
+			"name": "Search and Rescue Timer",
+			"category": "Automaton Affair",
+			"duration": 544
+		},
+		{
+			"name": "Disassembly Task Timer",
+			"category": "Synthetic Skirmish",
+			"duration": 375
+		},
+		{
+			"name": "Maze Solving Timer",
+			"category": "Automaton Affair",
+			"duration": 193
+		},
+		{
+			"name": "Speed Challenge Timer",
+			"category": "Automaton Affair",
+			"duration": 406
+		},
+		{
+			"name": "Code Compilation Timer",
+			"category": "Synthetic Skirmish",
+			"duration": 18
+		},
+		{
+			"name": "Disassembly Task Timer",
+			"category": "Machine Matchup",
+			"duration": 159
+		},
+		{
+			"name": "Search and Rescue Timer",
+			"category": "Bionic Bout",
+			"duration": 411
+		},
+		{
+			"name": "Code Compilation Timer",
+			"category": "Bionic Bout",
+			"duration": 49
+		},
+		{
+			"name": "Disassembly Task Timer",
+			"category": "Bionic Bout",
+			"duration": 176
+		},
+		{
+			"name": "Object Handling Timer",
+			"category": "Synthetic Skirmish",
+			"duration": 194
+		},
+		{
+			"name": "Robotic Dance Timer",
+			"category": "Machine Matchup",
+			"duration": 138
+		},
+		{
+			"name": "Object Handling Timer",
+			"category": "Synthetic Skirmish",
+			"duration": 98
+		},
+		{
+			"name": "Object Handling Timer",
+			"category": "Machine Matchup",
+			"duration": 277
+		},
+		{
+			"name": "Agility Trial Timer",
+			"category": "Synthetic Skirmish",
+			"duration": 58
+		},
+		{
+			"name": "Battery Endurance Timer",
+			"category": "Synthetic Skirmish",
+			"duration": 339
+		}
+	],
+	"tips": [
+		{
+			"title": "Break Time Strategy for Roboticists",
+			"category": "Stress",
+			"content": "Taking regular breaks can significantly improve your focus and productivity when working on complex robotics projects."
+		},
+		{
+			"title": "Breathing Techniques for Competition Calmness",
+			"category": "Stress",
+			"content": "Deep breathing exercises can help manage stress during intense robotics competitions."
+		},
+		{
+			"title": "Nutritional Balance for Robotic Enthusiasts",
+			"category": "Stress",
+			"content": "Maintain a balanced diet to ensure you have enough energy throughout the day, which is essential for high-stress environments like robotics labs."
+		},
+		{
+			"title": "Importance of Sleep in Robotics Problem-Solving",
+			"category": "Stress",
+			"content": "Getting a good night's sleep is crucial for cognitive function, especially when solving intricate coding problems in robotics."
+		},
+		{
+			"title": "Workspace Organization for Efficient Robotics",
+			"category": "Stress",
+			"content": "Organizing your workspace can reduce stress levels and increase efficiency when building or programming robots."
+		},
+		{
+			"title": "Goal Setting in Robotics Projects",
+			"category": "Stress",
+			"content": "Set realistic goals for your robotics projects to avoid unnecessary pressure and stress."
+		},
+		{
+			"title": "Mindfulness Practices for Robotic Troubleshooting",
+			"category": "Stress",
+			"content": "Practice mindfulness to stay calm and focused during troubleshooting and testing of robotic mechanisms."
+		},
+		{
+			"title": "Physical Fitness for Robotic Innovation",
+			"category": "Stress",
+			"content": "Physical exercise can be a great stress reliever and also boost your energy levels for working on robotics."
+		},
+		{
+			"title": "Community Support for Stress-Free Robotics",
+			"category": "Stress",
+			"content": "Connecting with fellow robotics enthusiasts can provide emotional support and valuable advice for stress management."
+		},
+		{
+			"title": "Celebrating Milestones in Robotics",
+			"category": "Stress",
+			"content": "Remember to celebrate small victories in your robotics journey to stay motivated and reduce stress."
+		},
+		{
+			"title": "Wiring Checklist for Robot Safety",
+			"category": "Robots",
+			"content": "Always double-check your robot's wiring to prevent short circuits and ensure optimal performance."
+		},
+		{
+			"title": "Maintenance Routines for Robotic Durability",
+			"category": "Robots",
+			"content": "Regular maintenance of your robot's moving parts can prevent wear and tear over time."
+		},
+		{
+			"title": "Leveraging Sensor Tech in Robotics",
+			"category": "Robots",
+			"content": "Understanding your robot's sensor capabilities can greatly improve its performance in tasks like navigation and object detection."
+		},
+		{
+			"title": "Keeping Your Robot's Firmware Fresh",
+			"category": "Robots",
+			"content": "Keep your robot's firmware up to date to take advantage of the latest features and bug fixes."
+		},
+		{
+			"title": "Motor Calibration for Precision Control",
+			"category": "Robots",
+			"content": "Calibrating your robot's motors can lead to more precise movements and better control."
+		},
+		{
+			"title": "Algorithm Efficiency in Robotics",
+			"category": "Robots",
+			"content": "Experiment with different algorithms to find the most efficient solution for your robot's tasks."
+		},
+		{
+			"title": "Pre-Deployment Robot Simulations",
+			"category": "Robots",
+			"content": "Simulate your robot's tasks in a virtual environment before running the actual hardware to save time and resources."
+		},
+		{
+			"title": "Documentation Practices for Robotics",
+			"category": "Robots",
+			"content": "Documenting your robot's design and code can help with troubleshooting and future enhancements."
+		},
+		{
+			"title": "Learning from Robotic Failures",
+			"category": "Robots",
+			"content": "Learning from failed experiments can provide valuable insights for improving your robot's design."
+		},
+		{
+			"title": "Staying Current with Robotic Tech Trends",
+			"category": "Robots",
+			"content": "Stay informed about the latest robotics technologies to keep your robot's capabilities ahead of the curve."
+		},
+		{
+			"title": "Effective Commenting in Robotics Code",
+			"category": "Code",
+			"content": "Comment your code to make it easier to understand and maintain, especially when working on complex robotics algorithms."
+		},
+		{
+			"title": "Version Control for Robotic Software",
+			"category": "Code",
+			"content": "Use version control systems like Git to keep track of changes and collaborate with other developers on your robotics projects."
+		},
+		{
+			"title": "Modular Coding for Robots",
+			"category": "Code",
+			"content": "Writing modular code can help in isolating issues and makes your robotic system more manageable."
+		},
+		{
+			"title": "Incremental Testing in Robotic Coding",
+			"category": "Code",
+			"content": "Test your code in small increments to catch bugs early in the development process."
+		},
+		{
+			"title": "Codebase Management for Robotics",
+			"category": "Code",
+			"content": "Keep your codebase clean by refactoring and removing obsolete code segments."
+		},
+		{
+			"title": "Simulation Tools for Robotic Coding",
+			"category": "Code",
+			"content": "Use simulation tools to test your robot's code in various scenarios before deployment."
+		},
+		{
+			"title": "Robust Error Handling in Robotics Software",
+			"category": "Code",
+			"content": "Implement error handling routines to make your robot's software more robust and reliable."
+		},
+		{
+			"title": "Staying Updated in Robotic Coding Languages",
+			"category": "Code",
+			"content": "Stay up to date with programming languages and frameworks commonly used in robotics to enhance your coding skills."
+		},
+		{
+			"title": "Peer Review Importance in Robotics",
+			"category": "Code",
+			"content": "Peer reviews can be a great way to catch errors in your code and learn from your colleagues."
+		},
+		{
+			"title": "Backup Strategies for Robotics Code",
+			"category": "Code",
+			"content": "Always back up your code, especially before making major changes or updates."
+		},
+		{
+			"title": "Analyzing Past Robotics Champions",
+			"category": "Competitions",
+			"content": "Research past winners and their strategies to gain insights for your own robotics competition preparations."
+		},
+		{
+			"title": "Competition Condition Testing for Robots",
+			"category": "Competitions",
+			"content": "Testing your robot under competition-like conditions can help you prepare for unexpected scenarios."
+		},
+		{
+			"title": "Robotics Competition Checklist Essentials",
+			"category": "Competitions",
+			"content": "Make a checklist of items to bring to the competition, including tools, spare parts, and batteries."
+		},
+		{
+			"title": "Mastering the Competition Rulebook",
+			"category": "Competitions",
+			"content": "Understand the scoring system and rules of the competition thoroughly to optimize your strategy."
+		},
+		{
+			"title": "Networking for Competitive Robotics Edge",
+			"category": "Competitions",
+			"content": "Networking with other teams can provide new perspectives and tips for robotics competitions."
+		},
+		{
+			"title": "Team Morale and Communication in Contests",
+			"category": "Competitions",
+			"content": "Keep your team's morale high and ensure clear communication during the competition for best performance."
+		},
+		{
+			"title": "Logging Practice Runs for Robotics Competitions",
+			"category": "Competitions",
+			"content": "Document your robot's performance during practice runs to identify areas for improvement before the competition."
+		},
+		{
+			"title": "Quick Repair Skills for Robotics Contests",
+			"category": "Competitions",
+			"content": "Plan for quick repairs and adjustments between competition rounds to keep your robot in top condition."
+		},
+		{
+			"title": "Maintaining Composure in the Robotics Arena",
+			"category": "Competitions",
+			"content": "Stay composed under pressure during the competition to make clear and strategic decisions."
+		},
+		{
+			"title": "Post-Competition Reflections for Improvement",
+			"category": "Competitions",
+			"content": "Reflect on your competition performance afterward to identify strengths and areas for improvement for next time."
+		}
+	]
+}
